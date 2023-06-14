@@ -16,9 +16,8 @@ i really hope u enjoy it :) and please feel free to donate if u liked it, right 
 
 💸 Donation address for USDT(TRC20): TXqmk1LQzE8aD37CdMMit4xrjozysmAhDR
 
-💸 Donation link
-for SOL: 3ppHFuus7iz6WbujunqCLtVZBTy65K68HNBRCCLoLXs9
+💸 Donation address for SOL: 3ppHFuus7iz6WbujunqCLtVZBTy65K68HNBRCCLoLXs9
 
-💸 Donation link for BNB(BEP2): bnb1sfjvmeww55c64rz28urqn0lt9rtua4jy8jj7gv
+💸 Donation address for BNB(BEP2): bnb1sfjvmeww55c64rz28urqn0lt9rtua4jy8jj7gv
 
-💸 Donation link for ETH: 0x2d762A5290c0c95Da331b6f0EdC4E2beb9857f1C
+💸 Donation address for ETH: 0x2d762A5290c0c95Da331b6f0EdC4E2beb9857f1C
