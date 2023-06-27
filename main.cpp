@@ -50,7 +50,7 @@ int called()
   for(int i = 0; i < 2; i++){
   int r = std::rand() % cards.size();
   string value = cards[r];
-  this_thread::sleep_for(chrono::milliseconds(1000));
+  //this_thread::sleep_for(chrono::milliseconds(1000));
   bot_handcards.insert(bot_handcards.begin()+1,value);
   bot_handcards.erase(std::remove(bot_handcards.begin(), bot_handcards.end(), ""), bot_handcards.end());
   cards.erase(std::remove(cards.begin(), cards.end(), value), cards.end());
@@ -134,7 +134,7 @@ int called()
   
     int r = std::rand() % cards.size();
   string valuef = cards[r];
-  this_thread::sleep_for(chrono::milliseconds(1000));
+  //this_thread::sleep_for(chrono::milliseconds(1000));
   bot_handcards.insert(bot_handcards.begin()+1,valuef);
   bot_handcards.erase(std::remove(bot_handcards.begin(), bot_handcards.end(), ""), bot_handcards.end());
   cards.erase(std::remove(cards.begin(), cards.end(), valuef), cards.end());
@@ -250,7 +250,7 @@ int called()
    srand(time(0));
    int r = std::rand() % cards.size();
    string value = cards[r];
-   this_thread::sleep_for(chrono::milliseconds(1000));
+   //this_thread::sleep_for(chrono::milliseconds(1000));
    handcards.insert(handcards.begin()+1,value);
    handcards.erase(std::remove(handcards.begin(), handcards.end(), ""), handcards.end());
    cards.erase(std::remove(cards.begin(), cards.end(), value), cards.end());
@@ -689,7 +689,7 @@ std::cout << "\nPCs score: " << bot_score << "\n";
    srand(time(0));
    int r = std::rand() % cards.size();
    string value = cards[r];
-   this_thread::sleep_for(chrono::milliseconds(1000));
+   //this_thread::sleep_for(chrono::milliseconds(1000));
    handcards.insert(handcards.begin()+1,value);
    handcards.erase(std::remove(handcards.begin(), handcards.end(), ""), handcards.end());
    cards.erase(std::remove(cards.begin(), cards.end(), value), cards.end());
